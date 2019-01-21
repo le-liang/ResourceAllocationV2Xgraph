@@ -1,6 +1,6 @@
 # ResourceAllocationV2Xgraph
 
-This project contains MATLAB codes for the paper:
+This project contains MATLAB codes for the paper. Please consider citing the paper if you have it of any help. 
 
 L. Liang, S. Xie, G. Y. Li, Z. Ding, and X. Yu, “Graph-based resource sharing in vehicular communication,” IEEE Transactions on Wireless Communications, vol. 17, no. 7, pp. 4579–4592, Jul. 2018.
 
